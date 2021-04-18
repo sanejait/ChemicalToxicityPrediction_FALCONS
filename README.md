@@ -20,7 +20,7 @@ Run another script, that will use the results of feature selection(performed alr
 * The following dataset files will be required for execution: ‘test.csv’, ‘train.csv’ and ‘feamat.csv’.
 * You can also open the notebook directly in Google Colab to view the results. Open the file 'ChemicalToxicityPrediction_FALCONS.ipynb' available in the ‘Complete_Script_With_Feature_Selection’ folder  
 OR  
-Open the Colab notebook through this link: [Colab Notebook1 - FALCONS](https://colab.research.google.com/drive/16dc0clcTqyQ3BGIV-cckkeb_6nj7dz97?usp=sharing#scrollTo=mREn6hq5CCQ_) 
+Open the Colab notebook through this link: [Colab Notebook1 - FALCONS](https://colab.research.google.com/drive/16dc0clcTqyQ3BGIV-cckkeb_6nj7dz97?usp=sharing) 
 
 
 **Follow these steps for Option 2**
