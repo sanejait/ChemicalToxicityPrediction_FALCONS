@@ -1,6 +1,10 @@
+# Machine Learning - Chemical Toxicity Prediction Program
+Language - Python  
+Libraries - Numpy, pandas, sklearn, xgboost, lightgbm, imblearn
+
 # Instructions to run the program
 
-We are providing two options to run the chemical toxicity prediction program.
+We have provided two options to run the chemical toxicity prediction program.
 
 **Option 1:**
 Run the complete script, that performs the feature selection using several models. This script may take a few hours to execute as our feature selection approach is quite exhaustive.
