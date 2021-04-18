@@ -14,29 +14,21 @@ Run another script, that will use the results of feature selection(performed alr
 
 
 **Follow these steps for Option 1**
-* Download the python script from the Google Colab Notebook (ChemicalToxicityPrediction_FALCONS.ipynb)                  
-[Colab Notebook1 - FALCONS](https://colab.research.google.com/drive/16dc0clcTqyQ3BGIV-cckkeb_6nj7dz97?usp=sharing#scrollTo=mREn6hq5CCQ_)  
+* Take the clone of this repository or download as zip.
+* Open the project on Jupyter Lab or any other python notebook/software. Go to the folder ‘Complete_Script_With_Feature_Selection’ and execute the script 'chemicaltoxicityprediction_falcons.py'
+* Follow the same directory structure as the python script expects the dataset files in the parent directory 'Dataset' and the result will be stored in the 'Output' directory.
+* The following dataset files will be required for execution: ‘test.csv’, ‘train.csv’ and ‘feamat.csv’.
+* You can also open the notebook directly in Google Colab to view the results. Open the file 'ChemicalToxicityPrediction_FALCONS.ipynb' available in the ‘Complete_Script_With_Feature_Selection’ folder  
 OR  
-Take the python script from the folder ‘Complete_Script_With_Feature_Selection’.  
-Script: chemicaltoxicityprediction_falcons.py
-
-* Open this script on Jupyter Lab or any other software you are using.
-
-* Import the dataset files ‘test.csv’, ‘train.csv’ and ‘feamat.csv’ which are available in the 'Dataset' folder.
-
-* Run the program.
+Open the Colab notebook through this link: [Colab Notebook1 - FALCONS](https://colab.research.google.com/drive/16dc0clcTqyQ3BGIV-cckkeb_6nj7dz97?usp=sharing#scrollTo=mREn6hq5CCQ_) 
 
 
 **Follow these steps for Option 2**
 
-* Download the python script from the Google Colab Notebook (ChemicalToxicityPrediction_DirectFeatureSelection_FALCONS.ipynb) 
-[Colab Notebook2 - FALCONS](https://colab.research.google.com/drive/18OTgMBCycL5iNjWgm5mlwCQ1AYFRyBAY?usp=sharing)  
+* Take the clone of this repository or download as zip.
+* Open the project on Jupyter Lab or any other similar software. Go to the folder ‘Script_With_Direct_Feature_Selection’ and execute the script 'chemicaltoxicityprediction_directfeatureselection_falcons.py'
+* Follow the same directory structure as the python script expects the dataset files in the parent directory 'Dataset' and the result will be stored in the 'Output' directory.
+* The following dataset files will be required for execution: ‘test.csv’, ‘train.csv’, ‘feamat.csv’ and 'Feature_Selected_Dataset.csv'.
+* You can also open the notebook directly in Google Colab to view the results. Open the file 'ChemicalToxicityPrediction_DirectFeatureSelection_FALCONS.ipynb' available in the ‘Script_With_Direct_Feature_Selection’ folder  
 OR  
-Take the python script from the folder ‘Script_With_Direct_Feature_Selection’.  
-Script: chemicaltoxicityprediction_directfeatureselection_falcons.py
-
-* Open this script on Jupyter Lab or any other software you are using.
-
-* Import the dataset files ‘test.csv’, ‘train.csv’, ‘feamat.csv’ and ‘Feature_Selected_Dataset.csv’ which are available in the 'Dataset' folder.
-
-* Run the program.
+Open the notebook through this link: [Colab Notebook2 - FALCONS](https://colab.research.google.com/drive/18OTgMBCycL5iNjWgm5mlwCQ1AYFRyBAY?usp=sharing)
